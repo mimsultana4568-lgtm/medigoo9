@@ -114,7 +114,7 @@ MediGo provides a **safe, anonymous, and accessible** platform for mental health
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/medigo.git
+git clone https://github.com/mimsultana4568-lgtm/medigo.git
 
 # Navigate to project directory
 cd medigo
