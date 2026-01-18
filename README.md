@@ -5,7 +5,7 @@ your mental health companion
 
 
 
-**MediGo** is an anonymous mental health and emergency healthcare platform designed to break the stigma around seeking mental health support. No login required for core features, no judgment, just help.
+**MediGo** is an anonymous mental health and emergency healthcare platform designed to break the stigma around seeking mental health support. 
 
 
 
@@ -20,11 +20,7 @@ your mental health companion
 - Emergency healthcare information is difficult to find quickly
 - Language barriers prevent many from accessing support
 
-**In Bangladesh specifically:**
-- 30M+ people need mental health support
-- Extreme stigma around mental illness
-- Very few affordable therapy options
-- Limited awareness and resources
+
 
 ---
 
@@ -32,7 +28,6 @@ your mental health companion
 
 MediGo provides a **safe, anonymous, and accessible** platform for mental health support:
 
-- ✅ **No Login Required** - Access mental health support without revealing your identity
 - ✅ **Free Forever** - Core features remain accessible to everyone
 - ✅ **24/7 Availability** - AI support available anytime, anywhere
 - ✅ **Privacy-First** - All data stored locally on your device
@@ -273,7 +268,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **[Mst. Mim sultana]** - Creator & Developer
 - **Email: mimsultana4568@gmail.com
-- 
+- linda
+- aicha maman
 
 ---
 
